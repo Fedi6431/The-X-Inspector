@@ -292,6 +292,7 @@ def X():
 |2| Slowloris Ping Attack   | Only in admin |
 |3| Ping Flood Attack       |               |
 |4| Ping of Death Attack    |               |
+|5| ICMP Flood Attack       |               |
 |6| Multi Ping Attack       |               |
         '''
             print(F"{list}")
