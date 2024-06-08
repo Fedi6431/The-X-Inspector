@@ -35,10 +35,11 @@ Option "3" is a DoS (Denial of service)  with 4 options:
 
 -HTTP flood 
 
--Slowloris Ping Attack
+-Slowloris Ping ( admin requied )
 
 -Ping Flood
 
-
 -Multi Ping 
+
+After selecting the option for the DoS you need to type the target ip and port
 ## ⚠ EDUCATIONAL PURPOSE ONLY ⚠
