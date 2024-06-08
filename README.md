@@ -42,4 +42,10 @@ Option "3" is a DoS (Denial of service)  with 4 options:
 -Multi Ping 
 
 After selecting the option for the DoS you need to type the target ip and port
+
+#### -4
+Option "4" is a IP lookup using the site ipinfo.io
+
+#### -5 
+Option "5" is a port scanner, so if you have an IP but no the port, here you are
 ## ⚠ EDUCATIONAL PURPOSE ONLY ⚠
