@@ -30,4 +30,14 @@ Option "2" is a BruteCam that uses a large database of hacked webcams named inse
 
 After selecting the country (every country have a number) the program will write all webcamera IP and port
 
+#### - 3
+Option "3" is a DoS (Denial of service)  with 4 options:
+-HTTP flood 
+
+-Slowloris Ping Attack
+
+-Ping Flood
+
+
+-Multi Ping 
 ## ⚠ EDUCATIONAL PURPOSE ONLY ⚠
