@@ -16,10 +16,11 @@ Just click on "more info" and the "run" button
 When you run the installer, it will download the necessary packages on requirements.txt and then start the program
 
 ## The-X-Inspector
+![immagine](https://github.com/Fedi6431/The-X-Inspector/assets/102946457/565aa3c8-3e18-4fc0-8307-8cdeeed76749)
 
 This is the main GUI of the program.
 
 ### Functions & Controls
 
-
-
+#### - 1 
+Option "1" is a proxy scanner, the program uses a list of proxies (which I provided you)
