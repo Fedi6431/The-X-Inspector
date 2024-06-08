@@ -1,9 +1,7 @@
 # The-X-Inspector
 
 ## ⚠ PLEASE ATTENTION ⚠
-This program was developed with Windows 10
-
-I'll also make a linux version but not now
+This program was developed with Windows, you can find some bugs if you're using linux
 
 # User guide 
 ## Installer
@@ -30,6 +28,8 @@ Option "1" is a proxy scanner, the program uses a list of proxies (which I provi
 ! This process can be slow !
 
 #### - 2
-
+Option "2" is a BruteCam that uses a large database of hacked webcams named insecam.org
+After selecting the country (every country have a number)
 ![immagine](https://github.com/Fedi6431/The-X-Inspector/assets/102946457/a27d3e60-92d3-4e84-ae0b-0cca8b67b959)
 ![immagine](https://github.com/Fedi6431/The-X-Inspector/assets/102946457/09cf088c-75e9-45ec-9d59-a13f28ce3b63)
+
