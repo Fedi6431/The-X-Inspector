@@ -29,7 +29,7 @@ Option "1" is a proxy scanner, the program uses a list of proxies (which I provi
 
 #### - 2
 Option "2" is a BruteCam that uses a large database of hacked webcams named insecam.org
-After selecting the country (every country have a number)
+After selecting the country (every country have a number) the program will write all webcamera IP and port
 ![immagine](https://github.com/Fedi6431/The-X-Inspector/assets/102946457/a27d3e60-92d3-4e84-ae0b-0cca8b67b959)
 ![immagine](https://github.com/Fedi6431/The-X-Inspector/assets/102946457/09cf088c-75e9-45ec-9d59-a13f28ce3b63)
 
