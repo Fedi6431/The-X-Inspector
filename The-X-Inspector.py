@@ -1,3 +1,4 @@
+from requests.exceptions import ProxyError, ConnectTimeout
 from concurrent.futures import ThreadPoolExecutor
 from random import randint
 import multiprocessing
@@ -49,7 +50,6 @@ def Pingofdeath():
     while(1):
         os.system(pingCommand)
 
-from requests.exceptions import ProxyError, ConnectTimeout
 
 def check_proxy(proxy):
     proxies = {
@@ -109,8 +109,11 @@ def main1():
 
 def X():
     while True:
-        cls = os.system("cls")
-        cls
+        if os.name == 'nt': 
+            os.system('cls')
+        else:  
+            os.system('clear')
+
         banner = f'''
 \033[31m ___________ __             ____  ___                                __                
 \033[31m \__    ___/|  |__   ____   \   \/  /    ____________   ____   _____/  |_  ___________ 
