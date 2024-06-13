@@ -10,7 +10,7 @@ This program was developed with Windows, you can find some bugs if you're using 
 
 Don't worry about this Windows Defender popup, because you have downloaded a file from an external source, so Windows Defender will say that running this app can expose you to risk
 
-Just click on "more info" and the "run" button
+Just click on `more info` and the "run" button
 
 When you run the installer, it will download the necessary packages on requirements.txt and then start the program
 
