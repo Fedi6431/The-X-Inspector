@@ -47,3 +47,6 @@ Option `98` show the info of the program
 
 #### - 99
 Option `99` show the program version
+
+
+#### The brute cam has been forked from https://github.com/ParzivalHack/BruteCam
