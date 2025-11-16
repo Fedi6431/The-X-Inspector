@@ -1,18 +1,8 @@
 # The-X-Inspector
-## ⚠ EDUCATIONAL PURPOSE ONLY ⚠
-## ⚠ PLEASE ATTENTION ⚠
-This program was developed with Windows, you can find some bugs if you're using linux
 
 # User guide 
 ## Installer
 ### Windows
-![immagine](https://github.com/Fedi6431/The-X-Inspector/assets/102946457/2a5fed3e-98c1-43df-9917-2127ac1563ea)
-
-Don't worry about this Windows Defender popup, because you have downloaded a file from an external source, so Windows Defender will say that running this app can expose you to risk
-
-Just click on `more info` and the "run" button
-
-When you run the installer, it will download the necessary packages on requirements.txt and then start the program
 
 ### Linux (Debian distribution and Tremux)
 
