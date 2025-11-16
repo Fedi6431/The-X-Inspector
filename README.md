@@ -9,8 +9,6 @@
 ## The-X-Inspector
 ![immagine](https://github.com/Fedi6431/The-X-Inspector/assets/102946457/565aa3c8-3e18-4fc0-8307-8cdeeed76749)
 
-This is the main GUI of the program.
-
 ### Functions & Controls
 
 #### - 1 
@@ -49,4 +47,3 @@ Option `98` show the info of the program
 
 #### - 99
 Option `99` show the program version
-## ⚠ EDUCATIONAL PURPOSE ONLY ⚠
